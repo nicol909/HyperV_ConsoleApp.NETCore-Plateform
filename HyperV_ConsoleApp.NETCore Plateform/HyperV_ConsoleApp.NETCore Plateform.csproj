@@ -35,6 +35,11 @@
     <PackageReference Include="runtime.win-x64.Microsoft.NETCore.DotNetAppHost" Version="3.1.0" />
     <PackageReference Include="SpecFlow.NUnit" Version="3.1.67" />
     <PackageReference Include="System.Data.SQLite.EF6" Version="1.0.112" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+    <PackageReference Include="xunit.analyzers" Version="0.10.0" />
+    <PackageReference Include="xunit.assert" Version="2.4.1" />
+    <PackageReference Include="xunit.console" Version="2.4.1" />
+    <PackageReference Include="xunit.core" Version="2.4.1" />
     <PackageReference Include="Z.EntityFramework.Plus.EF6" Version="1.12.4" />
   </ItemGroup>
 
