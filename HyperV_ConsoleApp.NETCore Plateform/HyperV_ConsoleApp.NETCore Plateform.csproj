@@ -7,12 +7,35 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Effort.EF6" Version="2.2.7" />
+    <PackageReference Include="EntityFramework" Version="6.4.0" />
     <PackageReference Include="Microsoft.AspNetCore.AzureAppServicesIntegration" Version="3.1.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Abstractions" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.ObjectPool" Version="3.1.0" />
     <PackageReference Include="Microsoft.NETCore.DotNetAppHost" Version="3.1.0" />
+    <PackageReference Include="Microsoft.NETCore.Platforms" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Web.Xdt" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Win32.Registry" Version="4.7.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit.Console" Version="3.10.0" />
+    <PackageReference Include="NUnit.ConsoleRunner" Version="3.10.0" />
+    <PackageReference Include="NUnit.Extension.NUnitProjectLoader" Version="3.6.0" />
+    <PackageReference Include="NUnit.Extension.NUnitV2Driver" Version="3.8.0" />
+    <PackageReference Include="NUnit.Runners" Version="3.10.0" />
+    <PackageReference Include="NUnit.Runners.Net4" Version="2.6.4" />
     <PackageReference Include="runtime.linux-x64.Microsoft.NETCore.App" Version="2.2.8" />
     <PackageReference Include="runtime.linux-x64.Microsoft.NETCore.DotNetAppHost" Version="3.1.0" />
     <PackageReference Include="runtime.win-x64.Microsoft.NETCore.DotNetAppHost" Version="3.1.0" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.1.67" />
+    <PackageReference Include="System.Data.SQLite.EF6" Version="1.0.112" />
+    <PackageReference Include="Z.EntityFramework.Plus.EF6" Version="1.12.4" />
   </ItemGroup>
 
 </Project>
